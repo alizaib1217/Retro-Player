@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="571e99fd-ece9-4eed-861d-469cba174ffd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Retro Player One/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Climbing.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Climbing.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Coin Spin.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Coin Spin.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Coin.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Coin.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Dying.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Dying.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Enemy Bounce.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Enemy Bounce.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Enemy.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Enemy.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Idling.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Idling.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/New Animation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/New Animation1.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/New Animation1.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Player.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Player.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Running.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Running.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/SPA_Enemy_Right_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/SPA_Enemy_Right_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/State Driven Camera Blends.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/State Driven Camera Blends.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/SFX Coin Pickup.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/SFX Coin Pickup.ogg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/button select.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/button select.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/coin1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/coin1.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/level.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/level.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/main.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/main.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/you lose.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/you lose.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gizmos.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gizmos/Cinemachine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gizmos/Cinemachine/cm_logo_lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level 1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level 1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level 2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level 2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Main Menu.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Main Menu.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Success.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/Success.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/etc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/test.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Levels/test.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Zero Friction.physicsMaterial2D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Zero Friction.physicsMaterial2D.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Cameras 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Cameras 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Cameras.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Cameras.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/GameSession.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/GameSession.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Level Exit.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Level Exit.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/ScenePersist.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/ScenePersist.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CoinPickup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CoinPickup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameSession.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameSession.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelExit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelExit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScenePersist.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScenePersist.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/New Palette.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/New Palette.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Platforms.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Platforms.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Exit Pixelated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Exit Pixelated.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Fire.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Fire.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Fire.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Fire.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Background brown tint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Background brown tint.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Coins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Coins.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Enemy_Right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Enemy_Right.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Ladder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Ladder.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Player_Ginger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Player_Ginger.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Rock_Grass_Water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/SPA_Rock_Grass_Water.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Spikes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/Spikes.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/fire4_64_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/fire4_64_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/fire4_64_0_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Sprites/fire4_64_0_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/Main Palette.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/Main Palette.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_10.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_10.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_11.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_11.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_12.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_12.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_13.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_13.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_14.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_14.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_15.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_15.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_6.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_6.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_7.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_7.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_8.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_8.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_9.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Background brown tint_9.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Ladder.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Ladder.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_10.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_10.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_11.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_11.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_12.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_12.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_13.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_13.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_14.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_14.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_15.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_15.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_16.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_16.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_17.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_17.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_18.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_18.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_19.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_19.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_20.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_20.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_21.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_21.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_22.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_22.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_23.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_23.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_24.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_24.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_25.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_25.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_26.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_26.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_27.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_27.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_28.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_28.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_29.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_29.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_6.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_6.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_7.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_7.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_8.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_8.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_9.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/SPA_Rock_Grass_Water_9.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/Spikes.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites &amp; Tiles/Tiles/Spikes.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Coordinate Brush.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Coordinate Brush/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Coordinate Brush/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Coordinate Brush/Scripts/Editor/CoordinateBrush.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Coordinate Brush/Scripts/Editor/CoordinateBrush.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/GameObject Brush.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/GameObject Brush/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/GameObject Brush/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/GameObject Brush/Scripts/Editor/GameObjectBrush.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/GameObject Brush/Scripts/Editor/GameObjectBrush.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Line Brush.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Line Brush/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Line Brush/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Line Brush/Scripts/Editor/LineBrush.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Line Brush/Scripts/Editor/LineBrush.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Prefab Brush.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Prefab Brush/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Prefab Brush/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Prefab Brush/Scripts/Editor/PrefabBrush.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Prefab Brush/Scripts/Editor/PrefabBrush.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Random Brush.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Random Brush/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Random Brush/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Random Brush/Scripts/Editor/RandomBrush.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Random Brush/Scripts/Editor/RandomBrush.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Scripts/Editor/TintBrushSmooth.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Scripts/Editor/TintBrushSmooth.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Scripts/TintTextureGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Scripts/TintTextureGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Shaders/TintedTilemap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush Smooth/Shaders/TintedTilemap.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush/Scripts/Editor/TintBrush.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Brushes/Tint Brush/Scripts/Editor/TintBrush.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/GridInformation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/GridInformation/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/GridInformation/Scripts/GridInformation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/GridInformation/Scripts/GridInformation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Animated Tile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Animated Tile/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Animated Tile/Scripts/AnimatedTile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Animated Tile/Scripts/AnimatedTile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Pipeline Tile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Pipeline Tile/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Pipeline Tile/Scripts/PipelineTile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Pipeline Tile/Scripts/PipelineTile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Random Tile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Random Tile/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Random Tile/Scripts/RandomTile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Random Tile/Scripts/RandomTile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile/Scripts/Editor/RuleTileEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile/Scripts/Editor/RuleTileEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile/Scripts/RuleTile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Rule Tile/Scripts/RuleTile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Terrain Tile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Terrain Tile/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Terrain Tile/Scripts/TerrainTile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/Assets/Tilemap/Tiles/Terrain Tile/Scripts/TerrainTile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/LICENSE.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/2d-extras-master/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Menus.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Resources/cm_logo_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Resources/cm_logo_sm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/BaseEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/BaseEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows/AboutWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows/AboutWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/AxisState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/AxisState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CameraState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CameraState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/GaussianFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/GaussianFilter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/LensSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/LensSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/NoiseSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/NoiseSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/Predictor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/Predictor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/SplineHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/SplineHelpers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/CINEMACHINE_install.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/CINEMACHINE_install.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/CinemachineAPI.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/CinemachineAPI.chm.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Gizmos.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Gizmos/Cinemachine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/LICENSE.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/CinemachinePostFX.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/CinemachinePostFX.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/PostFXAutoImport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/PostFXAutoImport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/Resources/PostProcessLayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/PostFX/Editor/Resources/PostProcessLayer.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_normal_extreme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_normal_extreme.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_normal_mild.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_normal_mild.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_normal_strong.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_normal_strong.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_tele_mild.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_tele_mild.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_tele_strong.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_tele_strong.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_wideangle_mild.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_wideangle_mild.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_wideangle_strong.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Handheld_wideangle_strong.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Vibration.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Presets/Noise/Vibration.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/ReleaseNotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/ReleaseNotes.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/CinemachineMixer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/CinemachineMixer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/CinemachineShot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/CinemachineShot.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/CinemachineTrack.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/CinemachineTrack.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Editor/CrossPlatformInput.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/License!.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/License!.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/Unipix.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/Unipix.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnityPackageManager/manifest.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="47" column="83" selection-start-line="47" selection-start-column="83" selection-end-line="47" selection-end-column="83" />
+              <folding>
+                <marker date="1558898549024" expanded="false" signature="6:116" ph="..." />
+                <marker date="1558898549024" expanded="true" signature="161:1201" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="381:449" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="503:724" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="538:621" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="634:718" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="750:805" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="861:960" ph="{...}" />
+                <marker date="1558898549024" expanded="true" signature="985:1197" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <marker date="1558898551405" expanded="true" signature="6:92" ph="..." />
+                <marker date="1558898551405" expanded="true" signature="132:668" ph="{...}" />
+                <marker date="1558898551405" expanded="true" signature="219:303" ph="{...}" />
+                <marker date="1558898551405" expanded="true" signature="358:365" ph="{...}" />
+                <marker date="1558898551405" expanded="true" signature="416:666" ph="{...}" />
+                <marker date="1558898551405" expanded="true" signature="419:508" ph="/* Debug.Log((&quot;Kill Enemy&quot;)); ... */" />
+                <marker date="1558898551405" expanded="true" signature="546:661" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="90" column="61" selection-start-line="90" selection-start-column="61" selection-end-line="90" selection-end-column="61" />
+              <folding>
+                <marker date="1558875034927" expanded="false" signature="6:124" ph="..." />
+                <marker date="1558875034927" expanded="true" signature="162:3173" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="643:912" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="970:1108" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="1132:1551" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="1583:2228" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="1658:1809" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="2253:2549" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="2400:2543" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="2573:2890" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="2663:2884" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="2921:3170" ph="{...}" />
+                <marker date="1558875034927" expanded="true" signature="3056:3164" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CoinPickup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="83" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="83" />
+              <folding>
+                <marker date="1558523707822" expanded="false" signature="6:78" ph="..." />
+                <marker date="1558523707822" expanded="true" signature="120:477" ph="{...}" />
+                <marker date="1558523707822" expanded="true" signature="277:475" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoinPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Retro Player One/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="571e99fd-ece9-4eed-861d-469cba174ffd" name="Default Changelist" comment="" />
+      <created>1558874032534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558874032534</updated>
+      <workItem from="1558874038013" duration="3127000" />
+      <workItem from="1558884516678" duration="3012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6139000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18590604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Player.cs</url>
+          <line>57</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" initialLine="57">
+            <startOffsets>
+              <option value="1667" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1668" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <marker date="1558524555708" expanded="false" signature="6:113" ph="..." />
+            <marker date="1558524555708" expanded="true" signature="149:376" ph="{...}" />
+            <marker date="1558524555708" expanded="true" signature="185:232" ph="{...}" />
+            <marker date="1558524555708" expanded="true" signature="264:311" ph="{...}" />
+            <marker date="1558524555708" expanded="true" signature="334:374" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="47" column="83" selection-start-line="47" selection-start-column="83" selection-end-line="47" selection-end-column="83" />
+          <folding>
+            <marker date="1558898549024" expanded="false" signature="6:116" ph="..." />
+            <marker date="1558898549024" expanded="true" signature="161:1201" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="381:449" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="503:724" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="538:621" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="634:718" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="750:805" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="861:960" ph="{...}" />
+            <marker date="1558898549024" expanded="true" signature="985:1197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <marker date="1558898551405" expanded="true" signature="6:92" ph="..." />
+            <marker date="1558898551405" expanded="true" signature="132:668" ph="{...}" />
+            <marker date="1558898551405" expanded="true" signature="219:303" ph="{...}" />
+            <marker date="1558898551405" expanded="true" signature="358:365" ph="{...}" />
+            <marker date="1558898551405" expanded="true" signature="416:666" ph="{...}" />
+            <marker date="1558898551405" expanded="true" signature="419:508" ph="/* Debug.Log((&quot;Kill Enemy&quot;)); ... */" />
+            <marker date="1558898551405" expanded="true" signature="546:661" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="90" column="61" selection-start-line="90" selection-start-column="61" selection-end-line="90" selection-end-column="61" />
+          <folding>
+            <marker date="1558875034927" expanded="false" signature="6:124" ph="..." />
+            <marker date="1558875034927" expanded="true" signature="162:3173" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="643:912" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="970:1108" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="1132:1551" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="1583:2228" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="1658:1809" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="2253:2549" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="2400:2543" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="2573:2890" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="2663:2884" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="2921:3170" ph="{...}" />
+            <marker date="1558875034927" expanded="true" signature="3056:3164" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CoinPickup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <marker date="1558523707822" expanded="false" signature="6:78" ph="..." />
+            <marker date="1558523707822" expanded="true" signature="120:477" ph="{...}" />
+            <marker date="1558523707822" expanded="true" signature="277:475" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
